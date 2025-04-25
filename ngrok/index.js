@@ -1,4 +1,4 @@
-// before run ngrok on node, run the following commands:-
+// before run ngrok on node, run the following commands:-nnnnnnn
 //set NGROK_AUTHTOKEN=2kovYxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 //node index.js
 
