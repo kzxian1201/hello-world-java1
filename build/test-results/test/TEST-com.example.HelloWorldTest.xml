@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.HelloWorldTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-04-25T04:23:07" hostname="LAPTOP-UB7NFJLT" time="0.004">
+<testsuite name="com.example.HelloWorldTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-04-25T04:46:32" hostname="LAPTOP-UB7NFJLT" time="0.003">
   <properties/>
-  <testcase name="testGetGreeting" classname="com.example.HelloWorldTest" time="0.004"/>
+  <testcase name="testGetGreeting" classname="com.example.HelloWorldTest" time="0.003"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
